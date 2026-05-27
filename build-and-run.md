@@ -9,7 +9,7 @@ Most readers should start with the website: [https://dylanwlim.com](https://dyla
 - Use Node.js 24.x and npm.
 - Install dependencies with npm install.
 - Run npm run dev for local development.
-- Run npm run build, npm run lint, npm run typecheck, and targeted Playwright checks before release work.
+- Run npm run build, npm run lint, npm run typecheck, npm run audit:deps, and targeted Playwright checks before release work.
 
 ## Validation
 

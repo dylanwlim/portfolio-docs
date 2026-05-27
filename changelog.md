@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-27
+
+- Refreshed build/run guidance to include the dependency audit check used before release work.
+
 ## 2026-05-22
 
 - Created the guide repository for Dylan W. Lim Portfolio Site.
