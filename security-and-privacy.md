@@ -1,13 +1,8 @@
 # Security And Privacy
 
-## Public Discussion Guidance
+See the current public docs:
 
-- Do not post personal records, credentials, payment details, or unrelated personal contact details in public Discussions.
-- Use the public contact links for professional follow-up.
-- Verify time-sensitive or business-critical details through the direct contact path.
+- [Security](SECURITY.md)
+- [Data handling](docs/data-handling.md)
 
-## Safe Reporting
-
-- Keep public reports focused on reproducible public behavior and guide clarity.
-- Do not post exploit details, credentials, account-specific records, or payment data in public threads.
-- Use the public contact, booking, support, or official app path when a question involves an account, appointment, health, financial, production, or business-critical detail.
+The portfolio site is a public information surface. Do not send secrets, private customer data, or confidential implementation details through public channels linked from the site.

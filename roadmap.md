@@ -1,13 +1,13 @@
 # Roadmap
 
-This roadmap covers public-facing guide and user-surface work only.
+This public roadmap stays intentionally high level.
 
-## Current Priorities
+## Current
 
-- Keep public docs aligned with visible homepage sections and selected-work entries.
-- Update guide text when contact links, resume handling, or project entries change.
-- Keep homepage screenshots current through the docs publish workflow.
+- Keep the live product surface available at [https://dylanwlim.com](https://dylanwlim.com).
+- Keep public docs accurate, concise, and free of private implementation details.
 
-## Documentation Rule
+## Next
 
-When a user-visible public flow changes, update the matching guide page and changelog entry in the same source-repo pass. Guide text should describe only behavior that is actually available to public users.
+- Update docs when the public product surface changes.
+- Fix broken links or stale public wording as they are found.

@@ -2,18 +2,12 @@
 
 Dylan W. Lim Portfolio Site is documented here from the public user's point of view.
 
-## Single-page portfolio
+## Public Product Model
 
-The public site is a compact homepage-first portfolio with navigation anchors.
+- Presents Dylan W. Lim's public profile, selected work, and contact paths.
+- Links to live products and public documentation without exposing private source.
+- Provides a resume and public social/profile links from one canonical site.
 
-## Project proof
+## Privacy Boundary
 
-Selected Work cards summarize project context and provide a path into specific examples.
-
-## Contact model
-
-The visible contact section and resume link are the primary follow-up paths.
-
-## Publishing Model
-
-The public guide files live under `docs-public/` in the source repository. The publishing workflow captures the current homepage screenshot, validates the public docs allowlist, and mirrors the result into `dylanwlim/personal-site-docs`.
+The public docs describe visible product behavior and safe support paths only. They do not document private source code, internal systems, secrets, proprietary logic, or non-public data.
