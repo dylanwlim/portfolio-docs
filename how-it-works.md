@@ -1,13 +1,20 @@
 # How It Works
 
-Dylan W. Lim Portfolio Site is documented here from the public user's point of view.
+Dylan W. Lim Portfolio Site is easiest to understand from the live product first. This guide gives you a quick map of the current user experience.
 
-## Public Product Model
+## User Flow
 
-- Presents Dylan W. Lim's public profile, selected work, and contact paths.
-- Links to live products and public documentation without exposing private source.
-- Provides a resume and public social/profile links from one canonical site.
+1. Open the portfolio site.
+2. Review the profile, selected work, and current focus sections.
+3. Use the contact, LinkedIn, GitHub, or resume links when ready to follow up.
 
-## Privacy Boundary
+## What To Look For
 
-The public docs describe visible product behavior and safe support paths only. They do not document private source code, internal systems, secrets, proprietary logic, or non-public data.
+- Profile overview
+- Selected work
+- Resume and contact paths
+- Live product links
+
+## Support
+
+For corrections or questions, email [dylan@wlim.work](mailto:dylan@wlim.work).

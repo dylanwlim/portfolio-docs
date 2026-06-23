@@ -1,18 +1,19 @@
-# Access And Updates
+# Setup And Access
 
-## Public Entry Points
+## Open The Product
 
-- Public site: [https://dylanwlim.com](https://dylanwlim.com)
-- Contact: [dylan@wlim.work](mailto:dylan@wlim.work)
+[https://dylanwlim.com](https://dylanwlim.com)
 
-## Current Use
+## Current Access
+
+Live portfolio and profile site.
+
+## Getting Started
 
 1. Open the portfolio site.
 2. Review the profile, selected work, and current focus sections.
 3. Use the contact, LinkedIn, GitHub, or resume links when ready to follow up.
 
-## How These Docs Stay Current
+## Need Help
 
-- Public docs are reviewed before publication.
-- Screenshots should show only already-public product surfaces.
-- Updates should not include private source, private implementation details, secrets, customer data, or internal workflow notes.
+For corrections or questions, email [dylan@wlim.work](mailto:dylan@wlim.work). Include the page URL, the action you were trying, and your browser or device when that helps explain the issue.

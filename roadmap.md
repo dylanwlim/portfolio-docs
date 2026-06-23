@@ -1,13 +1,13 @@
 # Roadmap
 
-This public roadmap stays intentionally high level.
+This roadmap focuses on what helps users understand and use Dylan W. Lim Portfolio Site.
 
-## Current
+## Current Focus
 
-- Keep the live product surface available at [https://dylanwlim.com](https://dylanwlim.com).
-- Keep public docs accurate, concise, and free of private implementation details.
+- Keep profile, resume, and selected-work links current.
+- Keep product links aligned with live sites.
 
-## Next
+## Up Next
 
-- Update docs when the public product surface changes.
-- Fix broken links or stale public wording as they are found.
+- Refresh selected-work notes as products change.
+- Improve contact and resume guidance as needed.

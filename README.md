@@ -4,47 +4,33 @@
   <a href="https://dylanwlim.com"><img src="assets/homepage.png" alt="Dylan W. Lim Portfolio Site homepage screenshot" width="900"></a>
 </p>
 
-![docs](https://img.shields.io/badge/documentation-public-111111?style=flat-square) ![live](https://img.shields.io/badge/live-verified-0f766e?style=flat-square) ![source](https://img.shields.io/badge/source-private-111111?style=flat-square)
+A guide to Dylan W. Lim's portfolio site, selected work, resume path, product links, and contact routes.
 
-Public guide and profile documentation for Dylan W. Lim's portfolio site.
+**Live site:** [https://dylanwlim.com](https://dylanwlim.com)
 
-**Live:** [https://dylanwlim.com](https://dylanwlim.com)
+**Status:** Live portfolio and profile site.
 
-**Status:** Live public portfolio.
+## Start Here
 
-## What It Does
+- [Product guide](product-guide.md)
+- [How it works](how-it-works.md)
+- [Setup and access](setup.md)
+- [FAQ](faq.md)
+- [Security and privacy](security-and-privacy.md)
+- [Roadmap](roadmap.md)
+- [Changelog](changelog.md)
 
-- Presents Dylan W. Lim's public profile, selected work, and contact paths.
-- Links to live products and public documentation without exposing private source.
-- Provides a resume and public social/profile links from one canonical site.
+## What You Can Do
 
-## Who It Is For
+- Profile overview
+- Selected work
+- Resume and contact paths
+- Live product links
+
+## Who It Helps
 
 Recruiters, collaborators, and people reviewing Dylan W. Lim's finance and software work.
 
-## Key Features
+## Get Help
 
-- Public profile
-- Selected work
-- Resume/contact paths
-- Live product links
-
-## Public Docs
-
-- [Overview](docs/overview.md)
-- [Getting started](docs/getting-started.md)
-- [FAQ](docs/faq.md)
-- [Data handling](docs/data-handling.md)
-- [Changelog](CHANGELOG.md)
-- [Security](SECURITY.md)
-- [Contributing](CONTRIBUTING.md)
-
-## Privacy And Source Code
-
-Production source code, private implementation details, secrets, internal routes, proprietary logic, and non-public data are intentionally omitted. This repository documents only the public product surface, safe usage notes, and support paths.
-
-## Contact
-
-- Website: [https://dylanwlim.com](https://dylanwlim.com)
-- GitHub: [https://github.com/dylanwlim](https://github.com/dylanwlim)
-- Email: [dylan@wlim.work](mailto:dylan@wlim.work)
+For corrections or questions, email [dylan@wlim.work](mailto:dylan@wlim.work).
